@@ -6,4 +6,4 @@ There's many ways that this predictor can be improved, but since it was my first
 
 The main machine-learning technique used in this predictor was Decision Tree Learning, and more specifically the Random Forest algorithm, using the sklearn library in python.
 
-I look very forward to experimenting with more AI/ML techniques on this project as well as others in the future!
+I look very forward to experimenting with more AI/ML techniques on this project as well as others in the future! One technique I look forward to implementing is the use of genetic algorithms for trading, which essentially use a process akin to biological evolution for creating new trading strategies. In order to avoid overfitting, I will likely use walk-forward analysis
