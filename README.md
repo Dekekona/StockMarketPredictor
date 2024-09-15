@@ -1,4 +1,4 @@
-# StockMarketPredictor
+# AI Stock Market Predictor
 
 This stock market predictor was created thanks to a tutorial on YouTube (link: https://www.youtube.com/watch?v=1O_BenficgE&ab_channel=Dataquest)
 
